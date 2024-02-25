@@ -27,5 +27,4 @@ public class ClientDao {
         clientsCollection.insertOne(document);
     }
 
-    // Ajoutez d'autres méthodes pour effectuer d'autres opérations CRUD
 }
